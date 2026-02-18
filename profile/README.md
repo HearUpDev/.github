@@ -4,7 +4,7 @@
 Use the AI voice translator. Take decisions in minutes with our AI engine.</h3>
 
 <div align="center">
-<img src="https://i.imgur.com/A0Ixclh.png" width="400" alt="Logo" />
+<img src="https://i.imgur.com/I231LeZ.png" width="400" alt="Logo" />
 </div>
 
 <h1 align="center"></h1>
