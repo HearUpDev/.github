@@ -11,7 +11,7 @@ Use the AI voice translator. Take decisions in minutes with our AI engine.</h3>
 
 ### About Us
 
-Welcome to HearUp AI.
+Welcome to HearUp AI!
 
 We are a passionate team that believes in providing modern web infrastructure tools and solutions, sharing them as open source to promote their development and adoption through the wider community.
 
